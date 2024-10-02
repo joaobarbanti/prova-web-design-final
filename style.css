@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+
+.hero{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.hero-text{
+
+
+max-width: 40%;
+text-align: center;
+
+}
+
+.hero-text h1{
+
+    
+        font-family: "Lato", sans-serif;
+        font-weight: 400;
+        font-size: 64px;
+        font-style: normal;
+    
+
+}
+
+.hero-text p{
+
+    font-family: "Lato";
+    max-width: 566px;
+    font-weight: 24px;
+}
+
+.hero-text button{
+
+border-radius: 40px;
+text-align: center;
+margin: 48px;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-right: 50px;
+padding-left: 50px;
+font-family: "Lato";
+font-weight: 22px;
+color: white;
+background-color: #333333;
+
+
+}
+.hero-box{
+
+display: flex;
+justify-content: center;
+margin-left: 50px;
+gap: 51px;
+
+}
+
+.box{
+
+margin-top: 196px;
+
+}
+
+.box img{
+
+height: 348px;
+width: 302;
+
+
+
+
+}
+
+.hero-image{
+
+display: flex;
+flex-direction: column;
+gap: 14px;
+margin-bottom: 450px;
+margin-right: 35px;
+
+
+}
+
+.box-images{
+
+height: 148px;
+width: 148px;
+
+}
